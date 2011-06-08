@@ -1,7 +1,6 @@
 import sbt._
-import templemore.sbt.CucumberProject
 
-class TheProj(info: ProjectInfo) extends DefaultProject(info) with CucumberProject {
+class TheProj(info: ProjectInfo) extends DefaultProject(info) {
 
   val scalaToolsSnapshots = ScalaToolsSnapshots
 
