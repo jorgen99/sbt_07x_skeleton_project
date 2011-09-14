@@ -24,3 +24,4 @@ Feature: Marking a guess
     |r b c c |p m     |
     |r g b c |p p m   |
     |r b y g |p p m m |
+    |r g b r |p p m   |
